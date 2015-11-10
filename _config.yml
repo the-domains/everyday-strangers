@@ -1,0 +1,23 @@
+name: Everyday Strangers
+favicon: null
+layout_spectrum: 0.5391398693900555
+typography_spectrum: 0.7525533000007272
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5048436746001244
+  lightness: 0.4119950875174254
+  saturation: 0.9953616454731673
+  rhythmicContrast: 0.3236527859698981
+purpose: []
